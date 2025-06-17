@@ -1,4 +1,4 @@
-# Projet_R_2_NAME
+# Projet Cardio Medical
 
 # Analyse des Facteurs de Risque d'Arrêt Cardiaque
 
